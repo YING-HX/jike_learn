@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// 加1
 func main() {
 	a := plusOne([]int{1, 4, 6})
 	fmt.Printf("a= %v", a)
